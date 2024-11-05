@@ -341,13 +341,13 @@
             :style="{ backgroundColor: `${colors.mainBg.color}` }"
             class="textColor"
           >
-            Created with
+            Created by
             <a
               class="textColor"
-              href="https://enbizcard.vishnuraghav.com/"
+              href="https://sahelcoders.com/"
               target="_blank"
               rel="noopener noreferrer"
-              >EnBizCard</a
+              >Sahel Coders</a
             >
           </footer>
         </body>
